@@ -1,8 +1,9 @@
 title: a blog
 domain: acekyken.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://acekyken.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /blog      # place folder name if the site is served in a subfolder
-theme: jekyll-theme-minimal
+#baseurl: /blog      # place folder name if the site is served in a subfolder
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 markdown: kramdown
 paginate: 5

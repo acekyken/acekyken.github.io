@@ -8,4 +8,5 @@ group :jekyll_plugins do
 end
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "jekyll-theme-minimal"
+
+#gem "jekyll-theme-minimal"
