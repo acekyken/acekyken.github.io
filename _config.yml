@@ -10,3 +10,4 @@ paginate: 5
 exclude:
   - Gemfile
   - Gemfile.lock
+skin: "/assets/css/skins/dark.css"
