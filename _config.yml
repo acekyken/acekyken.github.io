@@ -5,6 +5,9 @@ url: https://acekyken.github.io # the base hostname and protocol for your site, 
 #theme: jekyll-theme-minimal
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
+plugins:
+  - jekyll-feed
+
 markdown: kramdown
 paginate: 5
 exclude:
