@@ -1,6 +1,6 @@
 ---
 title: Impossible Day At Recurse Fall 2
-layout: post
+layout: posts
 ---
 
 # Impossible Day, 8th of October 2024
