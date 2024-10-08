@@ -1,8 +1,7 @@
 ---
 title: Impossible Day At Recurse Fall 2
-layout: posts
+layout: post
 ---
-
 # Impossible Day, 8th of October 2024
 I'm currently in a batch at [Recurse Center,](https://www.recurse.org/) where I try to learn at the edge of my abilities (one of the core principles of RC). Today was Impossible Day, a day on which recursers should try to do something way beyond the edge of their abilities, something that feels impossible. The time frame is roughly 5 hours between kickoff and debrief.
 
